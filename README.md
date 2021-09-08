@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DiaLeor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science: Productivity Tools
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning R Language, UNIX, and Git/Hub
 - 📫 How to reach me: https://www.linkedin.com/in/DiaLeor/
 
 <!---
