@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiaLeor
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning R Language, UNIX, and Git/Hub
+- 🌱 I’m currently learning R Language, CLI, and Git/GitHub
 - 📫 How to reach me: https://www.linkedin.com/in/DiaLeor/
 
 <!---
