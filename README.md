@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiaLeor
-- 👀 I’m interested in Bioinformatics
+- 👀 I’m interested in Bioinformatics - particularly related to agriculture and food innovation.
 - 🌱 I’m currently learning R Language with CLI and Git/GitHub as productivity tools.
 - 📫 How to reach me: https://www.linkedin.com/in/DiaLeor/
 
